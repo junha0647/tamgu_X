@@ -41,7 +41,7 @@ void Target::applyForce(Vector2D* force)
 
 void Target::update()
 {
-	*vel *= 4;
+	*vel *= maxSpeed;
 
 	edges();
 	Vehicle::update();
