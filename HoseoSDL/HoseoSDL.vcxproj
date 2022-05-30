@@ -146,7 +146,6 @@
     <ClCompile Include="src\InputHandler.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Sketch.cpp" />
-    <ClCompile Include="src\Target.cpp" />
     <ClCompile Include="src\Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -154,7 +153,6 @@
     <ClInclude Include="include\InputHandler.h" />
     <ClInclude Include="include\main.h" />
     <ClInclude Include="include\Sketch.h" />
-    <ClInclude Include="include\Target.h" />
     <ClInclude Include="include\Vector2D.h" />
     <ClInclude Include="include\Vehicle.h" />
   </ItemGroup>
